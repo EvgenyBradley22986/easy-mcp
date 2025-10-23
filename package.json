@@ -1,6 +1,6 @@
 {
   "name": "easy-mcp",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Absurdly easy Model Context Protocol Servers in Typescript",
   "main": "src/index.ts",
   "scripts": {
